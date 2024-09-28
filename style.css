@@ -1,0 +1,14 @@
+.pict1{
+    float: left;
+}
+
+.pict2{
+    float: right;
+}
+.pict3{
+    float: left;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
